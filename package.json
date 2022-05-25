@@ -1,6 +1,6 @@
 {
   "name": "ember-route-action-helper",
-  "version": "2.0.8",
+  "version": "2.0.9",
   "description": "Bubble closure actions in routes",
   "directories": {
     "doc": "doc",
@@ -47,8 +47,8 @@
     "route action"
   ],
   "dependencies": {
-    "ember-cli-babel": "^6.8.1",
-    "ember-getowner-polyfill": "^2.0.0"
+    "ember-cli-babel": "^7.26.11",
+    "ember-getowner-polyfill": "^3.0.2"
   },
   "ember-addon": {
     "configPath": "tests/dummy/config"
